@@ -80,6 +80,7 @@ Estrutura do Projeto
 css
 Copiar código
 seu-repositorio/
+```
 ├── lib/
 │   ├── Adafruit_SSD1306/
 │   ├── Adafruit_GFX_Library/
@@ -106,6 +107,7 @@ seu-repositorio/
 │   └── main.cpp
 ├── platformio.ini
 └── README.md
+```
 Uso
 Compilar e Carregar o Firmware:
 
